@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\program function_demo\bin\Debug\net5.0\program function_demo.exe
+C:\Users\kalvi\Documents\program function_demo\bin\Debug\net5.0\program function_demo.deps.json
+C:\Users\kalvi\Documents\program function_demo\bin\Debug\net5.0\program function_demo.runtimeconfig.json
+C:\Users\kalvi\Documents\program function_demo\bin\Debug\net5.0\program function_demo.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\program function_demo\bin\Debug\net5.0\program function_demo.dll
+C:\Users\kalvi\Documents\program function_demo\bin\Debug\net5.0\ref\program function_demo.dll
+C:\Users\kalvi\Documents\program function_demo\bin\Debug\net5.0\program function_demo.pdb
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.AssemblyInfo.cs
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.dll
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\ref\program function_demo.dll
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.pdb
+C:\Users\kalvi\Documents\program function_demo\obj\Debug\net5.0\program function_demo.genruntimeconfig.cache
